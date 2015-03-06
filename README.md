@@ -3,7 +3,7 @@ Vocabulary for Bibliographical Electronic Resource Management
 
 Status of this Document: draft
 
-This work is in progress and will change from time to time. If you are interested in managing electronic resources in libraries don't hasitate to ask.
+This work is in progress and will change from time to time. If you are interested in managing electronic resources in libraries don't hesitate to ask.
 
 We are still collecting and searching ideas from existing vocabularies and models like:
 * [ecpo](https://github.com/cKlee/ecpo)
@@ -25,7 +25,7 @@ site](http://aksw.org/Projects/)
 Reusing vocabularies/ontologies
 ------------------------------
 
-On the one hand reusing classes and properties provided by other ontolgies is quite easy and `rdf`, `rdfs`, `owl` or `foaf` are well known examples. On the other hand it's more difficult to provide  information to others about cases like in which of your classes yout want to use which properties of other ontologies.
+On one hand reusing classes and properties provided by other ontolgies is quite easy and `rdf`, `rdfs`, `owl` or `foaf` are well known examples. On the other hand it's more difficult to provide  information to others about cases like in which of your classes yout want to use which properties of other ontologies.
 So this document is a human readable version of those resources we reuse in our vocabulary to model the business processes we need.
 
 In RDF we try to make use of `rdfs:subClassOf` or `owl:subClassOf` in case of adding further statements like 'owl:Restrictions' on properties to a class. (Note that we will add all restrictions on properties even if their usagage is optional, with help of `owl:minCardinality "0"`. In contrast to open world assumption this is a closed world even if we know one can add triples she wants)
