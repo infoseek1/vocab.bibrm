@@ -9,8 +9,11 @@ We are still collecting and searching ideas from existing vocabularies and model
 * [ecpo](https://github.com/cKlee/ecpo)
 * [bibo](http://bibliontology.com/)
 * [holding](https://github.com/dini-ag-kim/holding-ontology)
-* ermi
+* [ermi](http://old.diglib.org/standards/dlf-erm02.htm)  
+* 
 * [bibframe](http://bibframe.org/)  
+
+ [ERM Data Standards & Best Practices Review] ](http://www.niso.org/apps/group_public/document.php?document_id=7946&wg_abbrev=ermreview)
 
 An overview of the vocabulary in HTML can be seen [here](http://vocab.ub.uni-leipzig.de/bibrm/)
 
