@@ -13,7 +13,7 @@ We are still collecting and searching ideas from existing vocabularies and model
 * 
 * [bibframe](http://bibframe.org/)  
 
- [ERM Data Standards & Best Practices Review] ](http://www.niso.org/apps/group_public/document.php?document_id=7946&wg_abbrev=ermreview)
+*[ERM Data Standards & Best Practices Review](http://www.niso.org/apps/group_public/document.php?document_id=7946&wg_abbrev=ermreview)
 
 An overview of the vocabulary in HTML can be seen [here](http://vocab.ub.uni-leipzig.de/bibrm/)
 
