@@ -19,7 +19,7 @@ About this vocabulary
 
 This vocabulary is part of a shared project between the Leipzig University Library (UB) and the Saxon State and University Library Dresden (SLUB) supported by the european union with EFRE. The goal is to provide a Electronic Resource Management System for the UB based on linked data technologies using RDF.
 
-Further information can be found on our [procect
+Further information can be found on our [project
 site](http://aksw.org/Projects/)
 
 Reusing vocabularies/ontologies
